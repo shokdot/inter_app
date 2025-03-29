@@ -35,7 +35,3 @@ The following endpoints are available:
 
 - **GET /** - Returns a welcome message.
 - **GET /search?q** - Accepts a Query name for welcoming 'name'.
-
-## License
-
-This project is licensed under the MIT License.
